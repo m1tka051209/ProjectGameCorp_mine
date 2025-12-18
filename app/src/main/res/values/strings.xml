@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjectGameCorp</string>
+    <string name="welcome_text">Добро пожаловать в игру Корпорация!</string>
+    <string name="info_text">\nСуть игры: выбор более выгодных сделок, балансирование между собственной выгодой, интересами компании и желаниями клиентов.\nВаша задача — продвинуться по карьерной лестнице. Цель: \nК(карьерное положение) = 1, \nА(активы) = 100 тр, \nР(репутация) = 50%.</string>
+    <string name="btn_start">Ура, я в игре!</string>
+    <string name="btn_start_joke">Не, я пас...</string>
+    <string name="your_name">Ваше имя</string>
+    <string name="know_username">Давайте знакомиться: введите ваше имя</string>
+    <string name="ok">Готово</string>
+</resources>
